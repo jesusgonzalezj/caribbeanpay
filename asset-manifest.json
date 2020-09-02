@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/github.io/caribbeanpay/static/css/main.ab02bf86.chunk.css",
+    "main.js": "/github.io/caribbeanpay/static/js/main.28f78e4a.chunk.js",
+    "main.js.map": "/github.io/caribbeanpay/static/js/main.28f78e4a.chunk.js.map",
+    "runtime-main.js": "/github.io/caribbeanpay/static/js/runtime-main.eabaa659.js",
+    "runtime-main.js.map": "/github.io/caribbeanpay/static/js/runtime-main.eabaa659.js.map",
+    "static/css/2.11829350.chunk.css": "/github.io/caribbeanpay/static/css/2.11829350.chunk.css",
+    "static/js/2.3d9bd26d.chunk.js": "/github.io/caribbeanpay/static/js/2.3d9bd26d.chunk.js",
+    "static/js/2.3d9bd26d.chunk.js.map": "/github.io/caribbeanpay/static/js/2.3d9bd26d.chunk.js.map",
+    "index.html": "/github.io/caribbeanpay/index.html",
+    "precache-manifest.9da6dd09e3f9d4de968cb415fcf95243.js": "/github.io/caribbeanpay/precache-manifest.9da6dd09e3f9d4de968cb415fcf95243.js",
+    "service-worker.js": "/github.io/caribbeanpay/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/github.io/caribbeanpay/static/css/2.11829350.chunk.css.map",
+    "static/css/main.ab02bf86.chunk.css.map": "/github.io/caribbeanpay/static/css/main.ab02bf86.chunk.css.map",
+    "static/js/2.3d9bd26d.chunk.js.LICENSE.txt": "/github.io/caribbeanpay/static/js/2.3d9bd26d.chunk.js.LICENSE.txt",
+    "static/media/3627634.jpg": "/github.io/caribbeanpay/static/media/3627634.64b04226.jpg",
+    "static/media/Posteos WP.png": "/github.io/caribbeanpay/static/media/Posteos WP.8261e848.png",
+    "static/media/banesco.svg": "/github.io/caribbeanpay/static/media/banesco.aae904bd.svg",
+    "static/media/styles.css": "/github.io/caribbeanpay/static/media/homeimg.c14354e7.png",
+    "static/media/image 1.svg": "/github.io/caribbeanpay/static/media/image 1.10614e23.svg",
+    "static/media/imagearg.png": "/github.io/caribbeanpay/static/media/imagearg.f0f11dcf.png",
+    "static/media/imagechile.svg": "/github.io/caribbeanpay/static/media/imagechile.39b61dd1.svg",
+    "static/media/imagehome.svg": "/github.io/caribbeanpay/static/media/imagehome.5f571cb4.svg",
+    "static/media/mercantil.svg": "/github.io/caribbeanpay/static/media/mercantil.659f8406.svg",
+    "static/media/provincial.svg": "/github.io/caribbeanpay/static/media/provincial.2000a2a2.svg",
+    "static/media/venezuela.svg": "/github.io/caribbeanpay/static/media/venezuela.4413fcb4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eabaa659.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.3d9bd26d.chunk.js",
+    "static/css/main.ab02bf86.chunk.css",
+    "static/js/main.28f78e4a.chunk.js"
+  ]
+}
